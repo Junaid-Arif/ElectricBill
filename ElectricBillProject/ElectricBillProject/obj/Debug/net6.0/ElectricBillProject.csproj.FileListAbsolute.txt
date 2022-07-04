@@ -1,0 +1,15 @@
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\obj\Debug\net6.0\ElectricBillProject.csproj.AssemblyReference.cache
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\obj\Debug\net6.0\ElectricBillProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\obj\Debug\net6.0\ElectricBillProject.AssemblyInfoInputs.cache
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\obj\Debug\net6.0\ElectricBillProject.AssemblyInfo.cs
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\obj\Debug\net6.0\ElectricBillProject.csproj.CoreCompileInputs.cache
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\bin\Debug\net6.0\ElectricBillProject.exe
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\bin\Debug\net6.0\ElectricBillProject.deps.json
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\bin\Debug\net6.0\ElectricBillProject.runtimeconfig.json
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\bin\Debug\net6.0\ElectricBillProject.dll
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\bin\Debug\net6.0\ElectricBillProject.pdb
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\obj\Debug\net6.0\ElectricBillProject.dll
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\obj\Debug\net6.0\refint\ElectricBillProject.dll
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\obj\Debug\net6.0\ElectricBillProject.pdb
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\obj\Debug\net6.0\ElectricBillProject.genruntimeconfig.cache
+C:\Users\junai\source\repos\ElectricBillProject\ElectricBillProject\obj\Debug\net6.0\ref\ElectricBillProject.dll
